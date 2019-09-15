@@ -1,0 +1,40 @@
+10-Jul-2019 19:21:25.382 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本:        Apache Tomcat/9.0.20
+10-Jul-2019 19:21:25.389 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.构建:          May 3 2019 22:26:00 UTC
+10-Jul-2019 19:21:25.390 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.20.0
+10-Jul-2019 19:21:25.390 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+10-Jul-2019 19:21:25.390 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:            10.14.4
+10-Jul-2019 19:21:25.390 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 结.造:          x86_64
+10-Jul-2019 19:21:25.390 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:             /Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre
+10-Jul-2019 19:21:25.390 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 版本:           1.8.0_102-b14
+10-Jul-2019 19:21:25.390 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:            Oracle Corporation
+10-Jul-2019 19:21:25.390 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/lujunjie/Desktop/apache-tomcat-9.0.20
+10-Jul-2019 19:21:25.391 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/lujunjie/Desktop/apache-tomcat-9.0.20
+10-Jul-2019 19:21:25.399 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/lujunjie/Desktop/apache-tomcat-9.0.20/conf/logging.properties
+10-Jul-2019 19:21:25.399 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+10-Jul-2019 19:21:25.400 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+10-Jul-2019 19:21:25.400 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+10-Jul-2019 19:21:25.400 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+10-Jul-2019 19:21:25.400 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+10-Jul-2019 19:21:25.400 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/lujunjie/Desktop/apache-tomcat-9.0.20
+10-Jul-2019 19:21:25.400 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/lujunjie/Desktop/apache-tomcat-9.0.20
+10-Jul-2019 19:21:25.400 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/lujunjie/Desktop/apache-tomcat-9.0.20/temp
+10-Jul-2019 19:21:25.401 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/Users/lujunjie/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+10-Jul-2019 19:21:25.875 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8080"]
+10-Jul-2019 19:21:25.935 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["ajp-nio-8009"]
+10-Jul-2019 19:21:25.944 信息 [main] org.apache.catalina.startup.Catalina.load 服务器在[901]毫秒内初始化
+10-Jul-2019 19:21:25.984 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+10-Jul-2019 19:21:25.984 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.20]
+10-Jul-2019 19:21:27.985 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+10-Jul-2019 19:21:29.724 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [/Users/lujunjie/Desktop/apache-tomcat-9.0.20/webapps/docs]
+10-Jul-2019 19:21:29.767 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/lujunjie/Desktop/apache-tomcat-9.0.20/webapps/docs] has finished in [43] ms
+10-Jul-2019 19:21:29.767 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [/Users/lujunjie/Desktop/apache-tomcat-9.0.20/webapps/manager]
+10-Jul-2019 19:21:29.862 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/lujunjie/Desktop/apache-tomcat-9.0.20/webapps/manager] has finished in [95] ms
+10-Jul-2019 19:21:29.863 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [/Users/lujunjie/Desktop/apache-tomcat-9.0.20/webapps/examples]
+10-Jul-2019 19:21:30.328 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/lujunjie/Desktop/apache-tomcat-9.0.20/webapps/examples] has finished in [465] ms
+10-Jul-2019 19:21:30.329 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [/Users/lujunjie/Desktop/apache-tomcat-9.0.20/webapps/ROOT]
+10-Jul-2019 19:21:30.348 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/lujunjie/Desktop/apache-tomcat-9.0.20/webapps/ROOT] has finished in [20] ms
+10-Jul-2019 19:21:30.349 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [/Users/lujunjie/Desktop/apache-tomcat-9.0.20/webapps/host-manager]
+10-Jul-2019 19:21:30.376 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/lujunjie/Desktop/apache-tomcat-9.0.20/webapps/host-manager] has finished in [28] ms
+10-Jul-2019 19:21:30.380 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8080"]
+10-Jul-2019 19:21:30.393 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["ajp-nio-8009"]
+10-Jul-2019 19:21:30.396 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in [4,450] milliseconds
