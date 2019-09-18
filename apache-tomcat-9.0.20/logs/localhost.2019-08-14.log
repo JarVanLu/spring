@@ -1,3 +1,0 @@
-14-Aug-2019 19:38:51.470 信息 [main] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'springmvc'
-14-Aug-2019 19:38:51.490 信息 [main] org.apache.catalina.core.ApplicationContext.log SessionListener: contextDestroyed()
-14-Aug-2019 19:38:51.490 信息 [main] org.apache.catalina.core.ApplicationContext.log ContextListener: contextDestroyed()

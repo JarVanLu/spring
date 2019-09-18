@@ -1,8 +1,0 @@
-14-Aug-2019 19:38:51.349 信息 [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
-14-Aug-2019 19:38:51.383 信息 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
-14-Aug-2019 19:38:51.415 信息 [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-nio-8009"]
-14-Aug-2019 19:38:51.422 信息 [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
-14-Aug-2019 19:38:51.503 信息 [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
-14-Aug-2019 19:38:51.510 信息 [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
-14-Aug-2019 19:38:51.512 信息 [main] org.apache.coyote.AbstractProtocol.destroy 正在摧毁协议处理器 ["http-nio-8080"]
-14-Aug-2019 19:38:51.514 信息 [main] org.apache.coyote.AbstractProtocol.destroy 正在摧毁协议处理器 ["ajp-nio-8009"]
